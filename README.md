@@ -95,4 +95,4 @@ Or run the notebook in VSCode/JupyterLab to view results step by step.
 
 **Arghyadeep Aich**
 *Machine Learning & NLP Enthusiast*
-📧 [[your.email@example.com](mailto:arghyadeepaich24@gmail)]
+📧 [[arghyadeepaich24@gmail](mailto:arghyadeepaich24@gmail)]

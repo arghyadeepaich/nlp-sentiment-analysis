@@ -1,0 +1,8 @@
+
+nltk
+transformers
+numpy
+pandas
+matplotlib
+seaborn
+scipy
